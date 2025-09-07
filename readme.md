@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kushagra Kumar</h1>
-<h3 align="center">Full-stack builder with a backend brain, DevOps habits, and a habit of shipping before the coffee cools.</h3>
+<h3 align="center">Full-stack builder with a backend brain, DevOps, and a habit of shipping before the coffee cools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kush2205&label=Profile%20views&color=0e75b6&style=flat" alt="kush2205" /> </p>
 
